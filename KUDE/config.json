@@ -1,0 +1,44 @@
+{
+    "version": 150,
+    "ruc": "80000000-0",
+    "razonSocial": "EMPRESA S.A.",
+    "nombreFantasia": "EMPRESA S.A.",
+    "actividadesEconomicas": [
+        {
+            "codigo": "96020",
+            "descripcion": "PELUQUERÍA Y OTROS TRATAMIENTOS DE BELLEZA"
+        }
+    ],
+    "timbradoNumero": "80000000",
+    "timbradoFecha": "2025-01-01",
+    "tipoContribuyente": 2,
+    "tipoRegimen": 8,
+    "establecimientos": [
+        {
+            "codigo": "001",
+            "direccion": "AVDA ARTIGAS Y CAPITAN LOMBARDO",
+            "numeroCasa": "0",
+            "complementoDireccion1": "",
+            "complementoDireccion2": "",
+            "departamento": 1,
+            "departamentoDescripcion": "ASUNCION",
+            "distrito": 1,
+            "distritoDescripcion": "ASUNCION",
+            "ciudad": 1,
+            "ciudadDescripcion": "ASUNCION (DISTRITO)",
+            "telefono": "021 111 111",
+            "email": "CORREO@DOMINIO.COM.PY",
+            "denominacion": "CASA MATRIZ",
+            "tipohoja": "1",
+            "size": "[600, 840]",
+            "ticketResumen": false
+        }
+    ],
+    "adicionalkude": {
+        "pie": null,
+        "texto2": "SHOPPING MCAL. LOPEZ",
+        "texto3": null,
+        "texto6": "Celular: (0981) 111-111",
+        "columnasEncabezado": 3
+    }
+}
