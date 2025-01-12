@@ -40,4 +40,4 @@ REM 3) INICIAR SERVIDOR SI NO ESTABA ARRIBA
 REM ----------------------------------------------------------------------------
 :StartServer
 echo [INFO] Levantando KUDE con PM2...
-npx pm2 start ./kude.exe --name "kude-app"
+start /min ./kude.exe
