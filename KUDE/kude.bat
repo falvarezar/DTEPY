@@ -41,3 +41,4 @@ REM ----------------------------------------------------------------------------
 :StartServer
 echo [INFO] Levantando KUDE con PM2...
 start /min ./kude.exe
+::npx pm2 start dist/app.js

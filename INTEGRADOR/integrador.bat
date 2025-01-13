@@ -11,6 +11,8 @@ if not errorlevel 1 (
     exit /b
 )
 
+:: Cambiar al directorio del proyecto
+cd /d C:\dtepy\integrador\
 
 :: Iniciar el proceso minimizado
 start /min %PROCESS_NAME%
